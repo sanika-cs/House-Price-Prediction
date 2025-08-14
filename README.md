@@ -25,5 +25,3 @@ This project aims to predict house prices using feature engineering, encoding, s
 
 
 
-# Run the notebook
-jupyter notebook HousePrice_Prediction.ipynb
